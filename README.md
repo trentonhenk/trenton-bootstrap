@@ -1,4 +1,6 @@
-# ICJ Bootstrap Template
+# Trenton Henk 03/07/2022 Boostrap 5 class project
+
+## ICJ Bootstrap Template
 
 This template goes along with the [Bootstrap lessons](https://github.com/utdata/icj-class#bootstrap) for Intro to Coding for Journalists.
 
